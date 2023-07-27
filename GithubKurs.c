@@ -12,7 +12,7 @@ int main() {
 				res = a + b;
 				break;
 			case 2:
-				res = a - b;
+				res = a + b;
 				break;
 			case 3:
 				res = a * b;
